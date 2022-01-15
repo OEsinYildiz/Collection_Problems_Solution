@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\bin\Debug\net6.0\Collection-Q-1.exe
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\bin\Debug\net6.0\Collection-Q-1.deps.json
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\bin\Debug\net6.0\Collection-Q-1.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\bin\Debug\net6.0\Collection-Q-1.dll
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\bin\Debug\net6.0\ref\Collection-Q-1.dll
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\bin\Debug\net6.0\Collection-Q-1.pdb
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.dll
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\ref\Collection-Q-1.dll
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.pdb
+C:\Users\omere\Desktop\Patika\Collections\Collection\Collection-Q-1\obj\Debug\net6.0\Collection-Q-1.genruntimeconfig.cache
